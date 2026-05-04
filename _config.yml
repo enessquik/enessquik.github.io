@@ -1,0 +1,8 @@
+title: enessquik'in blogu
+email: enes47794@gmail.com
+description: Yazılım ve teknoloji üzerine notlarım.
+baseurl: "" # Burayı boş bırak
+url: "https://enessquik.github.io"
+github_username:  enessquik
+
+theme: minima # GitHub'ın yerleşik profesyonel teması
